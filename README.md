@@ -22,7 +22,7 @@
 <p><a href="https://www.buymeacoffee.com/asishmehata48"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asishmehata48" /></a></p><br><br>
 
  <div align="left">
-  <img height="300" src="https://github.com/asishmehata48/asishmehata48/blob/main/6tXM.gif"  />
+  <img height="300" src="https://github.com/asishmehata48/asishmehata48/blob/main/error.gif"  />
 </div>
 
 
