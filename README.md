@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Asish Mehata.</h1>
-<h3 align="center">A Computer Engineering Student from Nepal</h3>
+<h3 align="center">A Computer Engineering Student from Nepal </h3>
 
  <div align="Center">
   <img height="300" src="https://github.com/asishmehata48/asishmehata48/blob/main/zoro-king-of-hell2.jpg"  />
