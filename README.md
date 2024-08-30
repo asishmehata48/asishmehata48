@@ -18,10 +18,10 @@
 
 <h3 align="Center">Connect with me:</h3>
 <p align="Center">
+ <a href="https://instagram.com/asishmehata48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asishmehata48" height="30" width="40" /></a>
 <a href="https://twitter.com/asishmehata11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asishmehata11" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/asishmehata48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asishmehata48" height="30" width="40" /></a>
 <a href="https://fb.com/asishmehata69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asishmehata69" height="30" width="40" /></a>
-<a href="https://instagram.com/asishmehata48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asishmehata48" height="30" width="40" /></a>
 </p>
 
 
