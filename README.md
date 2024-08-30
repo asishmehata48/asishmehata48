@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Asish Mehata.</h1>
-<h3 align="center">The Path to Reinvention </h3>
+<h3 align="center">A Computer Engineering Student </h3>
 
 
  <div align="Center">
