@@ -37,17 +37,6 @@
 
 
 
-<div align="center">
- 
-  <img src="https://streak-stats.demolab.com?user=asishmehata48&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-
-###
-
-  <hr bgcolor="blue" >
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asishmehata48&radius=18&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
 
 
 ##
