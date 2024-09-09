@@ -12,9 +12,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=asishmehata48.asishmehata48&left_color=blue&right_color=black" />
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/asishmehata48"/>
 </div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
 
 
 
