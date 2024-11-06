@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Asish Mehata.</h1>
 <h3 align="center">A Computer Engineering Student </h3>
 
-<div align="center"> 
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=32&center=true&vCenter=true&width=600&height=50&lines=+;I+Love+Watching+Anime;I+Love+Mountains;My+Favourite+Anime+is+One Piece;I+am+in+Coding;I+Have+Passion+For+Web+Designing;" alt="Headline"/> 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=200&lines=Delusional+World;Seeing+Clouds;Watching+Animes;Into+Music;With+Proper+Coding" alt="Typing SVG" /></a>
 </div>
 
  <div  align="center">
@@ -19,6 +19,7 @@
     <a href="https://github.com/asishmehata48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Asish Mehata" height="30" width="40"/></a>
 </p>
 </div>
+<hr>
 
 ## Statistics:
 <img src="https://visitor-badge.laobi.icu/badge?page_id=asishmehata48.asishmehata48&left_color=blue&right_color=black" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/asishmehata48"/>
