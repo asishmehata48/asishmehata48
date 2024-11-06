@@ -21,26 +21,6 @@
 </div>
 <hr>
 
-## Statistics:
-<img src="https://visitor-badge.laobi.icu/badge?page_id=asishmehata48.asishmehata48&left_color=blue&right_color=black" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/asishmehata48"/>
-[![An image of @asishmehata48's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/@asishmehata48)](https://holopin.io/@asishmehata48)
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asishmehata48&theme=dracula&show_icons=true&locale=en&layout=compact" alt="asishmehata48" height=150/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asishmehata48&theme=dracula" alt="asishmehata48" height=150 /> </p>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-  <div>
-   <p align="center">
-    <em> “Becoming is better than Being.” – Carol S.Dweck</em>
-</p>
-</div>
-
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-     
 <div align="center">
  <h2 align="center"> My Favourite Tools and Technologies:</h2>
     <table align="center">
@@ -81,3 +61,23 @@
                 <br>C++
         </tr>
    </div>
+     
+## Statistics:
+<img src="https://visitor-badge.laobi.icu/badge?page_id=asishmehata48.asishmehata48&left_color=blue&right_color=black" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/asishmehata48"/>
+[![An image of @asishmehata48's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.me/@asishmehata48)](https://holopin.io/@asishmehata48)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=asishmehata48&theme=dracula&show_icons=true&locale=en&layout=compact" alt="asishmehata48" height=150/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asishmehata48&theme=dracula" alt="asishmehata48" height=150 /> </p>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
+
+  <div>
+   <p align="center">
+    <em> “Becoming is better than Being.” – Carol S.Dweck</em>
+</p>
+</div>
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
