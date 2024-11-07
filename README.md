@@ -86,7 +86,7 @@
 </div>
   <div>
    <p align="center">
-    <em> “Becoming is better than Being.” – Carol S.Dweck</em>
+    <em> <strong>“Becoming is better than Being.” </strong>– Carol S.Dweck</em>
 </p>
 </div>
 
